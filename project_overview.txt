@@ -1,0 +1,54 @@
+# Project Overview: Fruit Recognition Classifier
+
+## Introduction
+This project aims to create software that can identify different fruits independently, and is able to correctly distinguish between them. 
+The primary goal is to take a step forward into machine learning and gain a basic understanding in how to utilise it.
+
+### Objectives
+- Data Collection: Acquire a diverse dataset of fruit images representing a broad range of fruit types.
+- Model Development: Build a Convolutional Neural Network (CNN) model for fruit image classification.
+- Model Training: Train the CNN model using the collected dataset to achieve a baseline level of accuracy.
+- Model Evaluation: Assess the model's performance using standard evaluation metrics, including accuracy, precision, recall, and F1 score.
+- User Interface: Develop a user-friendly interface to interact with the fruit classifier, enabling users to submit images for classification.
+- Documentation: Create comprehensive documentation, including a README file with instructions on how to use the fruit classifier and any prerequisites.
+
+## Motivation
+The idea for the project was one of a few I'd considered carrying out as a means to venture into the realm of machine learning.
+I feel like it is an achievable starting point, with a straight-forward path to completion.
+
+## Scope
+This project will:
+
+- Focus on classifying common fruit types.
+- Develop an image classification model.
+- Aim for a moderate level of accuracy suitable for beginners.
+- Use a moderately-sized dataset.
+- Include testing with real-world images.
+- Not include extensive user interface development.
+- Allow for future expansion as skills and resources grow.
+
+## Expected Outcomes
+By the end of this project, we expect to:
+
+- Have a functional fruit image classifier.
+- Achieve a reasonable level of accuracy in fruit classification.
+- Gain practical experience in image classification techniques.
+- Provide clear documentation for using the fruit classifier.
+- Lay the foundation for potential future improvements and applications.
+
+### Audience
+This project is primarily intended for personal skill development and learning. 
+While there is no specific external audience, it serves as a valuable resource for self-education and gaining practical experience in machine learning and image classification.
+
+## Timeline
+- Start Date: October 25, 2023
+- Expected Completion: N/A
+
+The timeline for this project is intentionally left flexible. 
+Since this project is primarily for personal skill development, the completion date may vary based on progress and time allocation. 
+The focus is on quality learning and achievement rather than adhering to strict deadlines, especially given that this is my first step into machine learning.
+
+## Version Control
+I'll use Git to keep track of changes in my project. The project will be hosted on GitHub for easy access.
+
+**Note**: This project is purely for fun and serves no real-world purpose.
